@@ -1,6 +1,5 @@
-# THE | chart standalone
 
-- Dorling map
+# Dorling map
 
 ------------------
 
