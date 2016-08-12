@@ -1,0 +1,44 @@
+[  
+   {  
+      "country":"China",
+      "alias":"CHN",
+      "continent":"Asia",
+      "area_value":200,
+      "range_value":260
+   },
+   {  
+      "country":"United States of America",
+      "alias":"USA",
+      "continent":"North America",
+      "area_value":500,
+      "range_value":600
+   },
+   {  
+      "country":"Japan",
+      "alias":"JPN",
+      "continent":"Asia",
+      "area_value":890,
+      "range_value":200
+   },
+   {  
+      "country":"Russian Federation",
+      "alias":"RUS",
+      "continent":"Europe",
+      "area_value":59,
+      "range_value":90
+   },
+   {  
+      "country":"Germany",
+      "alias":"DEU",
+      "continent":"Europe",
+      "area_value":48,
+      "range_value":300
+   },
+   {  
+      "country":"United Kingdom of Great Britain and Northern Ireland",
+      "alias":"GBR",
+      "continent":"Europe",
+      "area_value":35,
+      "range_value":60
+   }
+]

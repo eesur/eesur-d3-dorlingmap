@@ -1,0 +1,534 @@
+[
+{
+      "country" : "China",
+      "alias" : "CHN",
+      "continent" : "Asia",
+      "value" : 1484040,
+      "pct" : 0.20039608217314242,
+      "area_value" : 200,
+      "range_value": 60
+    },
+{
+      "country" : "United States of America",
+      "alias" : "USA",
+      "continent" : "North America",
+      "value" : 1265064,
+      "pct" : 0.17082684381706978,
+      "area_value" : 170,
+      "range_value": 600
+    },
+{
+      "country" : "Japan",
+      "alias" : "JPN",
+      "continent" : "Asia",
+      "value" : 660489,
+      "pct" : 0.08918857168166401,
+      "area_value" : 89,
+      "range_value": 200
+    },
+{
+      "country" : "Russian Federation",
+      "alias" : "RUS",
+      "continent" : "Europe",
+      "value" : 440581,
+      "pct" : 0.05949348149640526,
+      "area_value" : 59,
+      "range_value": 90
+    },
+{
+      "country" : "Germany",
+      "alias" : "DEU",
+      "continent" : "Europe",
+      "value" : 360310,
+      "pct" : 0.048654155122372,
+      "area_value" : 48,
+      "range_value": 300
+    },
+{
+      "country" : "Republic of Korea",
+      "alias" : "KOR",
+      "continent" : "Asia",
+      "value" : 321842,
+      "pct" : 0.04345966138296036,
+      "area_value" : 43,
+      "range_value": 400
+    },
+{
+      "country" : "France",
+      "alias" : "FRA",
+      "continent" : "Europe",
+      "value" : 265177,
+      "pct" : 0.03580795118893519,
+      "area_value" : 35,
+      "range_value": 200
+    },
+{
+      "country" : "United Kingdom of Great Britain and Northern Ireland",
+      "alias" : "GBR",
+      "continent" : "Europe",
+      "value" : 259347,
+      "pct" : 0.03502070208576451,
+      "area_value" : 35,
+      "range_value": 60
+    },
+{
+      "country" : "India",
+      "alias" : "IND",
+      "continent" : "Asia",
+      "value" : 192819,
+      "pct" : 0.026037150055620566,
+      "area_value" : 26,
+      "range_value": 600
+    },
+{
+      "country" : "Canada",
+      "alias" : "CAN",
+      "continent" : "North America",
+      "value" : 156550,
+      "pct" : 0.0211395964153294,
+      "area_value" : 21,
+      "range_value": 300
+    },
+{
+      "country" : "Brazil",
+      "alias" : "BRA",
+      "continent" : "South America",
+      "value" : 138653,
+      "pct" : 0.01872289020616204,
+      "area_value" : 18,
+      "range_value": 100
+    },
+{
+      "country" : "Spain",
+      "alias" : "ESP",
+      "continent" : "Europe",
+      "value" : 123225,
+      "pct" : 0.016639583317016707,
+      "area_value" : 16,
+      "range_value": 900
+    },
+{
+      "country" : "Italy",
+      "alias" : "ITA",
+      "continent" : "Europe",
+      "value" : 117973,
+      "pct" : 0.015930383953405656,
+      "area_value" : 15,
+      "range_value": 89
+    },
+{
+      "country" : "Australia",
+      "alias" : "AUS",
+      "continent" : "Oceania",
+      "value" : 92649,
+      "pct" : 0.01251077910114247,
+      "area_value" : 12,
+      "range_value": 50
+    },
+{
+      "country" : "Turkey",
+      "alias" : "TUR",
+      "continent" : "Asia",
+      "value" : 89075,
+      "pct" : 0.012028167043727028,
+      "area_value" : 12,
+      "range_value": 800
+    },
+{
+      "country" : "Netherlands",
+      "alias" : "NLD",
+      "continent" : "Europe",
+      "value" : 72325,
+      "pct" : 0.009766345006315548,
+      "area_value" : 9,
+      "range_value": 600
+    },
+{
+      "country" : "Poland",
+      "alias" : "POL",
+      "continent" : "Europe",
+      "value" : 71472,
+      "pct" : 0.009651160875096921,
+      "area_value" : 9,
+      "range_value": 430
+    },
+{
+      "country" : "Israel",
+      "alias" : "ISR",
+      "continent" : "Asia",
+      "value" : 63728,
+      "pct" : 0.008605456405979636,
+      "area_value" : 8,
+      "range_value": 600
+    },
+{
+      "country" : "Sweden",
+      "alias" : "SWE",
+      "continent" : "Europe",
+      "value" : 62294,
+      "pct" : 0.008411817432746917,
+      "area_value" : 8,
+      "range_value": 300
+    },
+{
+      "country" : "Iran (Islamic Republic of)",
+      "alias" : "IRN",
+      "continent" : "Asia",
+      "value" : 54813,
+      "pct" : 0.007401626945470779,
+      "area_value" : 7,
+      "range_value": 450
+    },
+{
+      "country" : "Ukraine",
+      "alias" : "UKR",
+      "continent" : "Europe",
+      "value" : 52626,
+      "pct" : 0.007106307256168157,
+      "area_value" : 7,
+      "range_value": 60,
+      "range_value": 783
+    },
+{
+      "country" : "Malaysia",
+      "alias" : "MYS",
+      "continent" : "Asia",
+      "value" : 52052,
+      "pct" : 0.0070287976532144745,
+      "area_value" : 7,
+      "range_value": 540
+    },
+{
+      "country" : "Argentina",
+      "alias" : "ARG",
+      "continent" : "South America",
+      "value" : 51598,
+      "pct" : 0.006967492148439261,
+      "area_value" : 6,
+      "range_value": 190
+    },
+{
+      "country" : "Egypt",
+      "alias" : "EGY",
+      "continent" : "Africa",
+      "value" : 47652,
+      "pct" : 0.006434647386670563,
+      "area_value" : 6,
+      "range_value": 600
+    },
+{
+      "country" : "Mexico",
+      "alias" : "MEX",
+      "continent" : "North America",
+      "value" : 46125,
+      "pct" : 0.006228450237349528,
+      "area_value" : 6,
+      "range_value": 350
+    },
+{
+      "country" : "Belgium",
+      "alias" : "BEL",
+      "continent" : "Europe",
+      "value" : 44649,
+      "pct" : 0.0060291398297543436,
+      "area_value" : 6,
+      "range_value": 240
+    },
+{
+      "country" : "Portugal",
+      "alias" : "PRT",
+      "continent" : "Europe",
+      "value" : 43321,
+      "pct" : 0.005849814476579272,
+      "area_value" : 5,
+      "range_value": 300
+    },
+{
+      "country" : "Denmark",
+      "alias" : "DNK",
+      "continent" : "Europe",
+      "value" : 40858,
+      "pct" : 0.005517225361466168,
+      "area_value" : 5,
+      "range_value": 600
+    },
+{
+      "country" : "Austria",
+      "alias" : "AUT",
+      "continent" : "Europe",
+      "value" : 39923,
+      "pct" : 0.005390968429825587,
+      "area_value" : 5,
+      "range_value": 60
+    },
+{
+      "country" : "Finland",
+      "alias" : "FIN",
+      "continent" : "Europe",
+      "value" : 39196,
+      "pct" : 0.0052927986016943545,
+      "area_value" : 5,
+      "range_value": 120
+    },
+{
+      "country" : "Thailand",
+      "alias" : "THA",
+      "continent" : "Asia",
+      "value" : 36360,
+      "pct" : 0.004909841748076506,
+      "area_value" : 4,
+      "range_value": 120
+    },
+{
+      "country" : "Switzerland",
+      "alias" : "CHE",
+      "continent" : "Europe",
+      "value" : 35950,
+      "pct" : 0.004854477745966732,
+      "area_value" : 4,
+      "range_value": 120
+    },
+{
+      "country" : "Czech Republic",
+      "alias" : "CZE",
+      "continent" : "Europe",
+      "value" : 34271,
+      "pct" : 0.004627755405619635,
+      "area_value" : 4,
+      "range_value": 120
+    },
+{
+      "country" : "Singapore",
+      "alias" : "SGP",
+      "continent" : "Asia",
+      "value" : 34141,
+      "pct" : 0.004610200965926292,
+      "area_value" : 4,
+      "range_value": 120
+    },
+{
+      "country" : "Pakistan",
+      "alias" : "PAK",
+      "continent" : "Asia",
+      "value" : 30244,
+      "pct" : 0.004083972877580469,
+      "area_value" : 4,
+      "range_value": 120
+    },
+{
+      "country" : "Greece",
+      "alias" : "GRC",
+      "continent" : "Europe",
+      "value" : 29055,
+      "pct" : 0.003923417271462126,
+      "area_value" : 3,
+      "range_value": 120
+    },
+{
+      "country" : "Norway",
+      "alias" : "NOR",
+      "continent" : "Europe",
+      "value" : 28343,
+      "pct" : 0.0038272729556032017,
+      "area_value" : 3,
+      "range_value": 120
+    },
+{
+      "country" : "Morocco",
+      "alias" : "MAR",
+      "continent" : "Africa",
+      "value" : 27714,
+      "pct" : 0.00374233647431772,
+      "area_value" : 3,
+      "range_value": 120
+    },
+{
+      "country" : "Hungary",
+      "alias" : "HUN",
+      "continent" : "Europe",
+      "value" : 25038,
+      "pct" : 0.0033809850849378315,
+      "area_value" : 3,
+      "range_value": 120
+    },
+{
+      "country" : "South Africa",
+      "alias" : "ZAF",
+      "continent" : "Africa",
+      "value" : 21383,
+      "pct" : 0.002887435261251923,
+      "area_value" : 2,
+      "range_value": 620
+    },
+{
+      "country" : "Indonesia",
+      "alias" : "IND",
+      "continent" : "Asia",
+      "value" : 21349,
+      "pct" : 0.0028828441001013567,
+      "area_value" : 2,
+      "range_value": 420
+    },
+{
+      "country" : "China, Hong Kong Special Administrative Region",
+      "alias" : "HKG",
+      "continent" : "Asia",
+      "value" : 21236,
+      "pct" : 0.002867585240983297,
+      "area_value" : 2,
+      "range_value": 120
+    },
+{
+      "country" : "Romania",
+      "alias" : "ROU",
+      "continent" : "Europe",
+      "value" : 18704,
+      "pct" : 0.0025256787694175734,
+      "area_value" : 2,
+      "range_value": 120
+    },
+{
+      "country" : "New Zealand",
+      "alias" : "NZL",
+      "continent" : "Oceania",
+      "value" : 16300,
+      "pct" : 0.002201056669242218,
+      "area_value" : 2,
+      "range_value": 120
+    },
+{
+      "country" : "Ireland",
+      "alias" : "IRL",
+      "continent" : "Europe",
+      "value" : 15732,
+      "pct" : 0.0021243572711974585,
+      "area_value" : 2,
+      "range_value": 120
+    },
+{
+      "country" : "Tunisia",
+      "alias" : "TUN",
+      "continent" : "Africa",
+      "value" : 15159,
+      "pct" : 0.0020469827023952628,
+      "area_value" : 2,
+      "range_value": 120
+    },
+{
+      "country" : "Uzbekistan",
+      "alias" : "UZB",
+      "continent" : "Asia",
+      "value" : 15029,
+      "pct" : 0.00202942826270192,
+      "area_value" : 2,
+      "range_value": 120
+    },
+{
+      "country" : "Slovakia",
+      "alias" : "SVK",
+      "continent" : "Europe",
+      "value" : 14727,
+      "pct" : 0.0019886479489527697,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Iraq",
+      "alias" : "IRQ",
+      "continent" : "Asia",
+      "value" : 13559,
+      "pct" : 0.0018309280600156586,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Kazakhstan",
+      "alias" : "KAZ",
+      "continent" : "Asia",
+      "value" : 12552,
+      "pct" : 0.001694948669467995,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Serbia",
+      "alias" : "SRB",
+      "continent" : "Europe",
+      "value" : 12342,
+      "pct" : 0.0016665914976556721,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Bulgaria",
+      "alias" : "BGR",
+      "continent" : "Europe",
+      "value" : 12275,
+      "pct" : 0.0016575442095060262,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Viet Nam",
+      "alias" : "VNM",
+      "continent" : "Asia",
+      "value" : 9328,
+      "pct" : 0.0012595985650730927,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Kenya",
+      "alias" : "KEN",
+      "continent" : "Africa",
+      "value" : 9305,
+      "pct" : 0.0012564927795888857,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Jordan",
+      "alias" : "JOR",
+      "continent" : "Asia",
+      "value" : 9090,
+      "pct" : 0.0012274604370191265,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Slovenia",
+      "alias" : "SVN",
+      "continent" : "Europe",
+      "value" : 8707,
+      "pct" : 0.0011757423569995088,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Venezuela (Bolivarian Republic of)",
+      "alias" : "VEN",
+      "continent" : "South America",
+      "value" : 8686,
+      "pct" : 0.0011729066398182765,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Lithuania",
+      "alias" : "LTU",
+      "continent" : "Europe",
+      "value" : 8557,
+      "pct" : 0.001155487234276421,
+      "area_value" : 1,
+      "range_value": 120
+    },
+{
+      "country" : "Colombia",
+      "alias" : "COL",
+      "continent" : "South America",
+      "value" : 7702,
+      "pct" : 0.0010400330347548198,
+      "area_value" : 1,
+      "range_value": 120
+    }
+]
