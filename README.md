@@ -1,4 +1,7 @@
 
+improved version: https://bl.ocks.org/eesur/ab15ed547c801d45c6a0918cbccff944
+gist: https://gist.github.com/eesur/ab15ed547c801d45c6a0918cbccff944
+
 ## dorling map with force layout and voronoi grid
 
 Chart maps countries utilising longitude and latitude co-ordinates applied with a force network. [Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) grid applied to improve the chart's interactive experience in selecting countries and prevent jumping/flashing. Note: Grid is invisible in production.
