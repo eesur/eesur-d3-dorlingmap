@@ -1,5 +1,5 @@
 
-**improved version:** https://bl.ocks.org/eesur/ab15ed547c801d45c6a0918cbccff944. 
+**improved version:** https://bl.ocks.org/eesur/ab15ed547c801d45c6a0918cbccff944  
 gist: https://gist.github.com/eesur/ab15ed547c801d45c6a0918cbccff944
 
 ## dorling map with force layout and voronoi grid
